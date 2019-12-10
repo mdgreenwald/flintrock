@@ -53,7 +53,7 @@ setuptools.setup(
         'boto3 == 1.9.57',
         'botocore == 1.12.57',
         'click == 7.0',
-        'paramiko == 2.4.2',
+        'paramiko == 2.5.0',
         'PyYAML == 3.13',
         # This is to address reports that PyInstaller-packaged versions
         # of Flintrock intermittently fail due to an out-of-date version
